@@ -20,7 +20,7 @@
 
 FORK THE REPOSITORY (Repo) 
     <br>
-<a href="https://github.com/berabotsmd/TREX-MD--SESSION-GENERATOR/fork"><img title="WEB" src="https://img.shields.io/badge/FORK Wasi-QR?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/berabotsmd/TREX-MD--SESSION-GENERATOR/fork"><img title="WEB" src="https://img.shields.io/badge/FORK TREX-MD-QR?color=black&style=for-the-badge&logo=stackshare"></a>
 
 Now Deploy
     <br>
